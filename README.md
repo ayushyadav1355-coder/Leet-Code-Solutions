@@ -15,9 +15,18 @@
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
