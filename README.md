@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
