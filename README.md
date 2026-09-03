@@ -68,6 +68,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Brainteaser
@@ -84,6 +85,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Simulation
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
