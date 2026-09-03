@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Brainteaser
@@ -77,10 +78,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Nim Game
 |  |
 | ------- |
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
