@@ -7,6 +7,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -39,6 +41,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
