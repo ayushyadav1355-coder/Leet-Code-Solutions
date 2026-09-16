@@ -82,6 +82,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0836-rectangle-overlap](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3870-count-commas-in-range](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3870-count-commas-in-range) |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
