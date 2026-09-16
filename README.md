@@ -79,6 +79,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3870-count-commas-in-range](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -113,6 +114,7 @@
 | [0115-distinct-subsequences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0115-distinct-subsequences) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
@@ -121,6 +123,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
@@ -143,4 +146,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
