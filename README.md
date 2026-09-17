@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -18,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -34,6 +36,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -118,6 +121,7 @@
 | [0115-distinct-subsequences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0115-distinct-subsequences) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -146,6 +150,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
