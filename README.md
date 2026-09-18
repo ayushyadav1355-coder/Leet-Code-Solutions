@@ -10,6 +10,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -24,6 +25,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -65,6 +67,7 @@
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
