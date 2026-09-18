@@ -9,6 +9,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -22,6 +23,7 @@
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -42,6 +44,7 @@
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
