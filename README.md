@@ -40,6 +40,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
