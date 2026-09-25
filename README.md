@@ -26,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -72,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -93,6 +96,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -201,4 +205,12 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ayushyadav1355-coder/Leet-Code-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
