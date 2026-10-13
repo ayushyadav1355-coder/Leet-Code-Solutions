@@ -1,28 +1,16 @@
-#include <vector>
-#include <algorithm>
-
-using namespace std;
-
+using ll = long long;
 class Solution {
 public:
-    long long maxAlternatingSum(vector<int>& nums) {
-        int n = nums.size();
-        vector<long long> sq(n);
-        for (int i = 0; i < n; ++i) {
-            sq[i] = (long long)nums[i] * nums[i];
-        }
-        sort(sq.rbegin(), sq.rend());
-        
-        long long score = 0;
-        int add_count = (n + 1) / 2;
-        
-        for (int i = 0; i < add_count; ++i) {
-            score += sq[i];
-        }
-        for (int i = add_count; i < n; ++i) {
-            score -= sq[i];
-        }
-        
-        return score;
+    ll maxAlternatingSum(vector<int>& nums) {
+        sort(nums.begin(), nums.end(), [](ll a, ll b) {
+            return abs(a)>abs(b);
+        }); ll n = nums.size(); ll ans = 0;
+        ll pos = (n+1)/2;
+        for (ll x:nums) {
+            if (pos>0) {
+                ans += x*x;
+                pos--;
+            } else ans -= x*x;
+        } return ans;
     }
 };
